@@ -1,0 +1,39 @@
+.heading{
+    width: 100%;
+    box-shadow: 10px 10px 5px gray;
+    font-size: 25px;
+    text-align: left;
+    margin: 0px;
+}
+
+body{
+    background-size: cover;
+}
+ 
+.heading2{
+    font-size: 15px;
+}
+
+#object_name{
+    width: 300px;
+    height: 25px;
+    background-color: coral;
+    color: black;
+    font-size: 18px;
+    border-radius: 30px;
+}
+
+#heading3{
+   font-size: 20px;
+   color:gold;
+   background-color: black;
+   width: 200;
+   border-radius: 30px;
+   text-shadow: white;    
+}
+
+canvas{
+    border:5px solid white ;
+    border-radius: 15px;
+    background-color: red;
+}
